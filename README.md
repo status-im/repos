@@ -20,6 +20,8 @@ For w3f/messaging, this Riot channel is used https://riot.im/app/#/room/#web3-me
 - https://github.com/status-im/bigbrother-specs/ - Research and specification for (new) Big Brother protocol.
 - https://github.com/w3f/messaging - Messaging for Web3, cross-team collaboration for transport privacy / mixnet layer.
 - https://github.com/status-im/messaging-pm/ - PM for w3f/messaging calls.
+- https://github.com/status-im/mvds - minimal viable data sync implementation.
+- github.com/status-im/staples - PoC for Swarm/Feeds/PSS chat.
 
 ## General (dev)
 
